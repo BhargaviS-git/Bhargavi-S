@@ -34,22 +34,28 @@ Here are some of the open-source projects I've worked on:
 ### 1. **VM Fleet Commander (Deploy and manage Azure compute resources)**
 - **Description**: Implement an infrastructure-as-code approach to provision and manage virtual machines in Azure, using ARM templates and Bicep. The aim is to gain hands-on experience in automating the deployment of Azure resources and organizing them efficiently.
 - **Technologies Used**: Azure Virtual Machines ,Azure Resource Manager (ARM) ,Bicep
-- **[Link to Repository] https://github.com/BhargaviS-git/azureprojects**
+-  https://github.com/BhargaviS-git/azureprojects
 
 ### 2. **ShareSafely - File Share Web App (Implement and manage storage**
 - **Description**: Create a web application where users can securely upload files to Azure Blob Storage. Once uploaded, the application generates a unique, time-limited link for the user to share. This ensures that only authorized users with the link can access the uploaded file for a specified duration.
 - **Technologies Used**: Azure Blob Storage ,Azure Web Apps ,Azure KeyVault
-- **[Link to Repository] https://github.com/BhargaviS-git/sharesafely**
+-  https://github.com/BhargaviS-git/sharesafely
 
-### 3. **Dockerized Web Application**
-- **Description**: A simple web application containerized with Docker.
-- **Technologies Used**: Docker, Python, Flask
+### 3. Onboard Automator (Manage Azure identities and governance)
+- **Description**: Streamline and automate the process of onboarding a new employee into Azure AD and assigning necessary Azure resources.
+- **Technologies Used**: Azure AD ,Azure Logic Apps ,Azure Email Service (part of Logic Apps connector) ,Azure Resource Manager
 - **[Link to Repository](https://github.com/yourusername/docker-webapp)**
 
-### 4. **CI/CD Pipeline for Azure Functions**
-- **Description**: A GitHub Actions pipeline to deploy Azure Functions with automated testing.
-- **Technologies Used**: Azure Functions, GitHub Actions, Python
+### 4. NetMaze Explorer (Implement and manage virtual networking)
+- **Description**:Design a hybrid networking environment where on-premises networks connect securely to Azure resources using Azure's networking capabilities, ensuring secure data transition and effective resource access controls.
+- **Technologies Used**: Azure Virtual Networks ,Azure VPN Gateway ,Network Security Groups (NSGs) ,Azure Bastion ,Azure Private Link,Azure DNS ,Azure Load Balancer
 - **[Link to Repository](https://github.com/yourusername/azure-functions-cicd)**
+
+**5. Azure InsightScape (Monitor and back up Azure resources)**
+- **Description**: Design a comprehensive monitoring dashboard to gain insights, troubleshoot, and ensure smooth operations for all your previous projects. With this centralized monitoring solution, track the health, performance, and security of all integrated services.
+- **Technologies Used**: Azure Monitor ,Azure Log Analytics ,Azure Security Center ,Azure Alerts ,Azure Application Insights (for the web applications) ,Azure Network Watcher (for networking projects)
+ **[Link to Repository](https://github.com/yourusername/docker-webapp)**
+
 
 ## 🌱 Current Learning Goals
 
