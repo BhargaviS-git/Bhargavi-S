@@ -49,7 +49,7 @@ Here are some of the open-source projects I've worked on:
 ### 4. NetMaze Explorer (Implement and manage virtual networking)
 - **Description**:Design a hybrid networking environment where on-premises networks connect securely to Azure resources using Azure's networking capabilities, ensuring secure data transition and effective resource access controls.
 - **Technologies Used**: Azure Virtual Networks ,Azure VPN Gateway ,Network Security Groups (NSGs) ,Azure Bastion ,Azure Private Link,Azure DNS ,Azure Load Balancer
-- **[Link to Repository](https://github.com/yourusername/azure-functions-cicd)**
+- https://github.com/BhargaviS-git/Netmazee
 
 **5. Azure InsightScape (Monitor and back up Azure resources)**
 - **Description**: Design a comprehensive monitoring dashboard to gain insights, troubleshoot, and ensure smooth operations for all your previous projects. With this centralized monitoring solution, track the health, performance, and security of all integrated services.
