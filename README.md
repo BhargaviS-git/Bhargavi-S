@@ -54,7 +54,7 @@ Here are some of the open-source projects I've worked on:
 **5. Azure InsightScape (Monitor and back up Azure resources)**
 - **Description**: Design a comprehensive monitoring dashboard to gain insights, troubleshoot, and ensure smooth operations for all your previous projects. With this centralized monitoring solution, track the health, performance, and security of all integrated services.
 - **Technologies Used**: Azure Monitor ,Azure Log Analytics ,Azure Security Center ,Azure Alerts ,Azure Application Insights (for the web applications) ,Azure Network Watcher (for networking projects)
- **[Link to Repository](https://github.com/yourusername/docker-webapp)**
+ https://github.com/BhargaviS-git/Insightscape
 
 
 ## 🌱 Current Learning Goals
